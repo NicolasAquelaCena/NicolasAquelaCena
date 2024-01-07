@@ -1,4 +1,6 @@
- ![Header](https://github.com/NicolasAquelaCena/NicolasAquelaCena/blob/main/github-header-image.png)
+ <div>
+   <img width="100%" src="https://github.com/NicolasAquelaCena/NicolasAquelaCena/blob/main/github-header-image.png">
+ </div>
 
 - 🔭 Atualmente estou a estudar C#.
 - 🌱 Mas também estou a aprender HTML, JavaScript, asp.net e PHP.
