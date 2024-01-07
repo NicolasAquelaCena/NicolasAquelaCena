@@ -1,4 +1,4 @@
- <h3>Olá, sou NicolasAquelaCena 👋</h3>
+ ![Header](https://github.com/NicolasAquelaCena/NicolasAquelaCena/blob/main/github-header-image.png)
 
 - 🔭 Atualmente estou a estudar C#.
 - 🌱 Mas também estou a aprender HTML, JavaScript, asp.net e PHP.
