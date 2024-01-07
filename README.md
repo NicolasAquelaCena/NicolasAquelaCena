@@ -1,8 +1,8 @@
-### Hello, I'm NicolasAquelaCena 👋
+### Olá, sou NicolasAquelaCena 👋
 
-- 🔭 I’m currently studying programming in C#.
-- 🌱 I’m currently learning C#, HTML, JavaScript and PHP.
-- 💬 I'm able to talk English, Spanish and Portuguese.
+- 🔭 Atualmente estou a estudar C#.
+- 🌱 Mas também estou a aprender HTML, JavaScript, asp.net e PHP.
+- 💬 Sou capaz de falar english, español e português.
 
 ![Nicolas Aquela Cena's GitHub stats](https://github-readme-stats.vercel.app/api?username=NicolasAquelaCena&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasAquelaCena&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
@@ -20,3 +20,7 @@
 <div> 
   <a href = "mailto:contatorafaballerini@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
+
+  ## Podes-me encontrar em:
+
+
