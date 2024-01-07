@@ -1,11 +1,11 @@
-### Olá, sou NicolasAquelaCena 👋
+ <h3>Olá, sou NicolasAquelaCena 👋</h3>
 
 - 🔭 Atualmente estou a estudar C#.
 - 🌱 Mas também estou a aprender HTML, JavaScript, asp.net e PHP.
 - 💬 Sou capaz de falar english, español e português.
 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ashutosh00710&theme=tokyo-night&custom_title=Contributos%20de%20NicolasAquelaCena)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ashutosh00710&theme=tokyo-night&custom_title=Contributos%20de%20NicolasAquelaCena)](https://github.com/ashutosh00710/github-readme-activity-graph)<br>
 ![Nicolas Aquela Cena's GitHub stats](https://github-readme-stats.vercel.app/api?username=NicolasAquelaCena&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasAquelaCena&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
