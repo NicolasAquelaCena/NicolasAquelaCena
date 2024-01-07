@@ -9,34 +9,40 @@
 ![Nicolas Aquela Cena's GitHub stats](https://github-readme-stats.vercel.app/api?username=NicolasAquelaCena&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasAquelaCena&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3>Linguagens que eu sei</h3>
+<h3>Linguagens que eu sei:</h3>
 
 <div style="display: inline_block"><br>
   <img align="center" height="75" width="80" src="">
   <img align="center" height="75" width="80" src="">
   <img align="center" height="75" width="80" src="">
   <img align="center" height="75" width="80" src="">
-  <img align="center" height="75" width="80" src="">
-  <img align="center" height="75" width="80" src="">
+  <img align="center" height="75" width="80" src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Dark.svg">
+  <img align="center" height="75" width="80" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg">
   <img align="center" height="75" width="80" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg">
 </div>
 
-  <h3>Sub-Linguagens que uso</h3>
+  <h3>Sub-Linguagens que uso:</h3>
 
 <div style="display: inline_block"><br>
-  <img align="center" height="75" width="80" src="">
+  <img align="center" height="75" width="80" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Regex-Light.svg">
   <img align="center" height="75" width="80" src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg">
   <img align="center" height="75" width="80" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg">
   <img align="center" height="75" width="80" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg">
 </div>
 
-  <h3>Programas que utilizo</h3>
+  <h3>Programas que utilizo:</h3>
 
 <div style="display: inline_block"><br>
-  <img align="center" height="75" width="80" src="">
+  <img align="center" height="75" width="80" src="https://github.com/tandpfun/skill-icons/blob/main/icons/RobloxStudio.svg">
   <img align="center" height="75" width="80" src="">
   <img align="center" height="75" width="80" src="">
 </div>
+
+<h3>Bases de dados que sei mexer:</h3>
+
+  <div>
+    <img align="center" height="75" width="80" src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Light.svg">
+  </div>
 
   <h4>Podes-me encontrar em:</h4>
 
@@ -44,7 +50,7 @@
   <a href = "mailto:a14351@aemaximinos.edu.pt"><img align="center" height="35" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Light.svg" target="_blank"></a>
     <a href = ""><img align="center" height="35" width="40" src="" target="_blank"></a>
     <a href = ""><img align="center" height="35" width="40" src="" target="_blank"></a>
-    <a href = ""><img align="center" height="35" width="40" src="" target="_blank"></a>
+    <a href = "https://es.linkedin.com/"><img align="center" height="35" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" target="_blank"></a>
     <a href = "https://www.instagram.com/le_serna_monsieur/"><img align="center" height="35" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Instagram.svg" target="_blank"></a>
     <a href = "https://discord.com/channels/@me"><img align="center" height="35" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Discord.svg" target="_blank"></a>
 </div>
