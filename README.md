@@ -50,12 +50,12 @@
   <h4 align="center">Podes-me encontrar em:</h4>
 
   <div align="center"> 
-  <a href = "mailto:a14351@aemaximinos.edu.pt"><img align="center" height="35" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Light.svg" target="_blank"></a>
-    <a href = "https://es.stackoverflow.com/"><img align="center" height="35" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/StackOverflow-Light.svg" target="_blank"></a>
-    <a href = "https://twitter.com/?lang=es"><img align="center" height="35" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Twitter.svg" target="_blank"></a>
-    <a href = "https://es.linkedin.com/"><img align="center" height="35" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" target="_blank"></a>
-    <a href = "https://www.instagram.com/le_serna_monsieur/"><img align="center" height="35" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Instagram.svg" target="_blank"></a>
-    <a href = "https://discord.com/channels/@me"><img align="center" height="35" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Discord.svg" target="_blank"></a>
+  <a href = "mailto:a14351@aemaximinos.edu.pt" target="_blank"><img align="center" height="35" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Light.svg"></a>
+    <a href = "https://es.stackoverflow.com/" target="_blank"><img align="center" height="35" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/StackOverflow-Light.svg"></a>
+    <a href = "https://twitter.com/?lang=es" target="_blank"><img align="center" height="35" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Twitter.svg"></a>
+    <a href = "https://es.linkedin.com/" target="_blank"><img align="center" height="35" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg"></a>
+    <a href = "https://www.instagram.com/le_serna_monsieur/" target="_blank"><img align="center" height="35" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Instagram.svg" ></a>
+    <a href = "https://discord.com/channels/@me" target="_blank"><img align="center" height="35" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Discord.svg"></a>
 </div>
 
 
